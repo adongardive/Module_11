@@ -38,6 +38,7 @@ To replicate this analysis:
    pip install pandas numpy scikit-learn
    ```
 3. Open the notebook in a Jupyter environment or any Python IDE and run the cells sequentially.
+4. Github does not allow for files greater than 25MB, so the data folder has the vehicle.csv file zipped to reduce file size
 
 ## Contributing
 
